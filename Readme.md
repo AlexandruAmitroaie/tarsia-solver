@@ -12,8 +12,7 @@ As such we are keeping the state in a file so we can resume the processing.
 Create the virtual environment:
 
 ```
-python -m venv
-```
+python -m venv venv
 
 Activate the environment:
 
