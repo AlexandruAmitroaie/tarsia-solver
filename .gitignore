@@ -1,0 +1,7 @@
+.vscode
+__pycache__
+venv
+
+state
+state.bak
+state.running

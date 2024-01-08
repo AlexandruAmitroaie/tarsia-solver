@@ -18,7 +18,7 @@ python -m venv venv
 Activate the environment:
 
 ```
-source .venv/bin/activate
+source ./venv/bin/activate
 ```
 
 
