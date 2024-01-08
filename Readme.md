@@ -13,6 +13,7 @@ Create the virtual environment:
 
 ```
 python -m venv venv
+```
 
 Activate the environment:
 
